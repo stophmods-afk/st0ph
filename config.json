@@ -17,7 +17,7 @@
   "inbounds": [
     {
       "port": 8080,
-      "protocol": "trojan",
+      "protocol": "vmess",
       "settings": {
         "clients": [
           {
