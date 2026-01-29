@@ -16,7 +16,7 @@
   },
   "inbounds": [
     {
-      "port": 80,
+      "port": 8080,
       "protocol": "vmess",
       "settings": {
         "clients": [
@@ -30,7 +30,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/v2ray"
+          "path": "/stophmods"
         }
       }
     }
